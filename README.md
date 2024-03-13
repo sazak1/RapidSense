@@ -6,6 +6,6 @@
 </head>
 <body>
     <h1>RapidSense</h1>
-    This repository has been moved to a new page. You can find the updated repository at the following address:
+    This repository has been moved to a new page. You can find the updated repository at the following address: https://
 </body>
 </html>
